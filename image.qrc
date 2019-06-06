@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/cancel.png</file>
+        <file>image/copy.png</file>
+        <file>image/cut.png</file>
+        <file>image/exit.png</file>
+        <file>image/find.png</file>
+        <file>image/floder.png</file>
+        <file>image/history.png</file>
+        <file>image/new.png</file>
+        <file>image/ok.png</file>
+        <file>image/open.png</file>
+        <file>image/paste.png</file>
+        <file>image/save.png</file>
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/black.png</file>
+        <file>image/blue.png</file>
+        <file>image/green.png</file>
+        <file>image/red.png</file>
+    </qresource>
+</RCC>
